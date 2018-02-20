@@ -1,4 +1,4 @@
-# alphat-[1DaffaN3Kalani]
+# Alphat-[1DaffaN3Kalani]
 -Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
 
 -LineAlphat -> https://github.com/alfathdirk/LineAlphatJS
