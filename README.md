@@ -1,4 +1,4 @@
-# alphat-third
+# alphat-[1DaffaN3Kalani]
 -Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
 
 -LineAlphat -> https://github.com/alfathdirk/LineAlphatJS
@@ -15,9 +15,9 @@
 
 -How to run bot for the first time ?
 
--git clone https://github.com/CarTooonn/alphat-third
+-git clone https://github.com/1DaffaN3Kalani/KalaniJs
 
--cd alphat-third && npm install
+-cd KalaniJs && npm install
 
 -insert your admin mid in main.js
 
