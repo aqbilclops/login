@@ -24,10 +24,10 @@ Thanks to @Alfathdirk @TCR_TEAM\n\
 | Change it to your authToken / your email & password
 */
 const auth = {
-	authToken: '',
-	certificate: '',
-	email: '',
-	password: ''
+	authToken: 'EEibgnIQDW9Fy5Vv7jt7.4QtqXCAK36D0RokmK620PW.G5/Lv1V18OUt6dn7TjeX0frYKOnhFR+K/gy4mNwYWd0=',
+	certificate: '80aa1e53e308a3d6fba70c49fef4f6eff27cb3be5e57d5b32f72f1df7e1274f6',
+	email: 'brodolsilitss@gmail.com',
+	password: 'Akukamu123'
 }
 
 let client =  new LineConnect();
